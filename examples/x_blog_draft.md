@@ -91,6 +91,6 @@ This prototype is rough, but it made the future feel much closer:
 
 a meeting agent that can listen, remember, speak, and be present wherever audio calls happen.
 
-Code: {{GITHUB_URL}}
+Code: https://github.com/leehomyc/voice-presence-mvp
 
-Demo: {{DEMO_URL}}
+Demo: add the video link here after uploading the Zoom recording clip.

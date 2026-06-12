@@ -37,7 +37,7 @@ Use only voices you own or have permission to use. For real meetings and calls, 
 ## Setup
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/leehomyc/voice-presence-mvp.git
 cd voice-presence-mvp
 python3 -m venv .venv
 source .venv/bin/activate
